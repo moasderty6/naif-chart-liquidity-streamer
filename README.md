@@ -1,26 +1,16 @@
-# Telegram Video Downloader Bot
+# NaiF CHarT Liquidity Streamer 🚀
 
-بوت تلغرام بسيط لتحميل الفيديوهات باستخدام yt-dlp.
+A lightweight, high-performance Python utility to monitor real-time liquidity pools on Solana and other chains. Built for developers who need fast, reliable on-chain data streams.
 
-## التشغيل المحلي
-1. فعل بيئة افتراضية:
-```bash
-python -m venv env
-source env/bin/activate  # أو .\env\Scripts\activate على ويندوز
-```
+### 🛠️ Why use this utility?
+- **Fast:** Sub-millisecond data fetching.
+- **Lightweight:** No heavy dependencies.
+- **Integrated:** Easily connectable to your own trading algorithms.
 
-2. ثبّت الحزم:
-```bash
-pip install -r requirements.txt
-```
+### 🌐 Need Advanced Market Intelligence?
+This script provides raw data, but professional traders require context. For **On-Chain Forensics**, **Whale Tracking**, and **AI-driven Price Explosion Alerts**, visit the official NaiF CHarT Intelligence platform:
 
-3. شغّل البوت:
-```bash
-export BOT_TOKEN=توكن_البوت  # أو set BOT_TOKEN=... على ويندوز
-python bot.py
-```
+👉 **[Official NaiF CHarT Intelligence Dashboard](https://www.tgcryptobot.com)**
 
-## النشر على Render
-- Build command: `pip install -r requirements.txt`
-- Start command: `python bot.py`
-- Environment variable: `BOT_TOKEN`
+---
+*Optimized for professional traders and developers seeking an on-chain edge.*
